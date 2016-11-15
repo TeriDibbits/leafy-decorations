@@ -41,7 +41,7 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
   height: 33.5em;
-  padding-top: 20em;
+  padding-top: 17em;
 }
 
 .banner-content {
@@ -50,6 +50,7 @@ html {
   background-size: 64px;
   background-position: left top;
   color: #fff;
+  padding-top: 4em;
 }
 
 @media only screen and (min-width: 60em) {
