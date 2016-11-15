@@ -39,7 +39,9 @@ html {
 .banner {
   background-image: url("../images/banner.jpg");
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: cover;
+  height: 33.5em;
+  padding-top: 20em;
 }
 
 .banner-content {
